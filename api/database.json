@@ -4,55 +4,64 @@
       "id": 1,
       "name": "Blueberry pancakes",
       "category": "Breakfast",
-      "ethnicity": "american"
+      "ethnicity": "american",
+      "barcode": "0711381023402"
     },
     {
       "id": 2,
       "name": "Sushi",
       "category": "Seafood",
-      "ethnicity": "japanese"
+      "ethnicity": "japanese",
+      "barcode": "8020931030190"
     },
     {
       "name": "Burger",
       "category": "Burger",
       "ethnicity": "american",
-      "id": 3
+      "id": 3,
+      "barcode": "3029330066484"
     },
     {
       "id": 4,
       "name": "Linguine",
       "category": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "3248830692362"
     },
     {
       "id": 5,
       "name": "Massaman curry",
       "category": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "3560070976416"
     },
     {
       "name": "Green curry",
       "category": "curry",
       "ethnicity": "thai",
-      "id": 6
+      "id": 6,
+      "barcode": "5021047104419"
     },
     {
       "id": 7,
       "name": "Ravioli Funghi",
       "category": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "8001665127585"
     },
     {
       "id": 8,
       "name": "Tuscan Soup",
       "category": "vegetarian",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "5000169116562"
     },
     {
       "name": "Pizza",
       "category": "meat",
       "ethnicity": "italian",
-      "id": 9
+      "id": 9,
+      "barcode": "7613034383808"
     }
   ]
 }
