@@ -4,19 +4,55 @@
       "id": 1,
       "name": "Blueberry pancakes",
       "category": "Breakfast",
-      "ethnicity": "American"
+      "ethnicity": "american"
     },
     {
       "id": 2,
       "name": "Sushi",
       "category": "Seafood",
-      "ethnicity": "Japanese"
+      "ethnicity": "japanese"
     },
     {
       "name": "Burger",
       "category": "Burger",
-      "ethnicity": "American",
+      "ethnicity": "american",
       "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 8,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Pizza",
+      "category": "meat",
+      "ethnicity": "italian",
+      "id": 9
     }
   ]
 }
