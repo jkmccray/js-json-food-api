@@ -1,0 +1,22 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Blueberry pancakes",
+      "category": "Breakfast",
+      "ethnicity": "American"
+    },
+    {
+      "id": 2,
+      "name": "Sushi",
+      "category": "Seafood",
+      "ethnicity": "Japanese"
+    },
+    {
+      "name": "Burger",
+      "category": "Burger",
+      "ethnicity": "American",
+      "id": 3
+    }
+  ]
+}
